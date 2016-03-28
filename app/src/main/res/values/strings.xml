@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HSV Color Picker</string>
+    <string name="action_about">About</string>
+    <string name="author">Jinhong Fan (fan00036)</string>
+    <string name="Saturation">Saturation</string>
+    <string name="Value">Value/Lightness</string>
+    <string name="Hue">Hue</string>
+</resources>
